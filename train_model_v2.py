@@ -78,7 +78,7 @@ def train(model, train_loader, criterion, optimizer):
     #train_loader, test_loader = create_data_loaders(data, batch_size)
     
     #train_loader, test_loader = create_data_loaders(args.train_dir,args.test_dir, args.batch_size )
-    train_loader, test_loader = create_data_loaders(args)
+    #train_loader, test_loader = create_data_loaders(args)
     
     #train_loader = _get_train_data_loader(args.batch_size, args.train_dir)
     #test_loader = _get_test_data_loader(args.test_batch_size, args.test_dir)
