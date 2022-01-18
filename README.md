@@ -1,5 +1,5 @@
 # Image Classification on AWS using SageMaker and s3
-## Project 3 AWS Machine Learning Engineer Nanodegree Program (2021-2022)
+## Udacity Project 3: AWS Machine Learning Engineer Nanodegree Program (2021-2022)
 
 The present work consists in taking a large datafile of dog images classified by breed and construct
 a model to be able to predict the breeds of dogs on the test file.
